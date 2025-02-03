@@ -31,7 +31,7 @@ This project aims to be the easiest way for you to get started with LLMs. No ted
 
 # Preview
 
-https://github.com/jakobhoeg/nextjs-ollama-llm-ui/assets/114422072/08eaed4f-9deb-4e1b-b87a-ba17d81b9a02
+<!-- https://github.com/jakobhoeg/nextjs-ollama-llm-ui/assets/114422072/08eaed4f-9deb-4e1b-b87a-ba17d81b9a02 -->
 
 # Requisites ⚙️
 
