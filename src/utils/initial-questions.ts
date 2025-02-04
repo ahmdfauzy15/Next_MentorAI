@@ -1,35 +1,35 @@
 export const INITIAL_QUESTIONS = [
   {
-    content: "What is the capital of France?",
+    content: "Bagaimana cara mengatasi stres akibat tekanan akademik atau pekerjaan?",
   },
   {
-    content: 'Who wrote "To Kill a Mockingbird"?',
+    content: "Apa yang harus saya lakukan jika merasa cemas terus-menerus?",
   },
   {
-    content: "What is the boiling point of water in Celsius?",
+    content: "Bagaimana cara mendukung teman yang sedang mengalami depresi?",
   },
   {
-    content: "How many planets are there in our solar system?",
+    content: "Apa tanda-tanda burnout, dan bagaimana cara mengatasinya?",
   },
   {
-    content: "What year did the Titanic sink?",
+    content: "Bagaimana cara membangun kebiasaan berpikir positif?",
   },
   {
-    content: "Who painted the Mona Lisa?",
+    content: "Apa yang harus saya lakukan jika merasa kesepian atau terisolasi?",
   },
   {
-    content: "What is the square root of 144?",
+    content: "Bagaimana cara meningkatkan kepercayaan diri dalam interaksi sosial?",
   },
   {
-    content: "Who is the current President of the United States?",
+    content: "Apa yang bisa saya lakukan jika mengalami serangan panik?",
   },
   {
-    content: "What is the tallest mountain in the world?",
+    content: "Bagaimana cara mengelola emosi saat menghadapi konflik dengan teman atau keluarga?",
   },
   {
-    content: "What is the chemical symbol for gold?",
+    content: "Apa langkah awal yang bisa saya ambil untuk menjaga kesehatan mental saya?",
   },
   {
-    content: "Who discovered penicillin?",
+    content: "Bagaimana cara mengatasi overthinking dan rasa khawatir berlebihan?",
   },
 ];

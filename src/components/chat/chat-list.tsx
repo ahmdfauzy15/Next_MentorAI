@@ -90,14 +90,14 @@ export default function ChatList({
           <div></div>
           <div className="flex flex-col gap-4 items-center">
             <Image
-              src="/ollama.png"
+              src="/halosani.png"
               alt="AI"
               width={60}
               height={60}
               className="h-20 w-14 object-contain dark:invert"
             />
             <p className="text-center text-lg text-muted-foreground">
-              How can I help you today?
+              Apa yang mau kamu ceritakan hari ini?
             </p>
           </div>
 
@@ -198,7 +198,7 @@ export default function ChatList({
                 <div className="flex items-end gap-2">
                   <Avatar className="flex justify-start items-center">
                     <AvatarImage
-                      src="/ollama.png"
+                      src="/halosani.png"
                       alt="AI"
                       width={6}
                       height={6}
@@ -238,7 +238,7 @@ export default function ChatList({
           <div className="flex pl-4 pb-4 gap-2 items-center">
             <Avatar className="flex justify-start items-center">
               <AvatarImage
-                src="/ollama.png"
+                src="/halosani.png"
                 alt="AI"
                 width={6}
                 height={6}
